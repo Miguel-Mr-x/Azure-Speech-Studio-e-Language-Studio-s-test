@@ -26,7 +26,7 @@ Exemplo:
 
 Essas ferramentas do Azure AI nos ajuda a identificar na comunicação translinguistica de modo fácil e rápido nas operações de uma organização.
 
-https://github.com/Miguel-Mr-x
+[https://github.com/Miguel-Mr-x](https://github.com/Miguel-Mr-x/Azure-Speech-Studio-e-Language-Studio-s-test.git)
 
 
 
